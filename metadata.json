@@ -1,0 +1,6 @@
+{
+  "name": "Hand Controlled Laptop",
+  "description": "An interactive virtual laptop simulator controlled using advanced real-time hand-gesture tracking via your webcam, featuring a functional desktop OS, air-painting canvas, gesture retro-runner game, media hub, and virtual typing system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
